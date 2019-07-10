@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TurianToughkid.title>Tough-kid</TurianToughkid.title>
+  <TurianToughkid.titleShort>Tough-kid</TurianToughkid.titleShort>
+  <TurianToughkid.baseDescription>[PAWN_nameDef] grew faster than [PAWN_possessive] young peers, but [PAWN_pronoun] was a 'gentle giant' of sorts, using [PAWN_possessive] strength to protect [PAWN_possessive] friends from bullies.</TurianToughkid.baseDescription>
+
+  <TurianOpEng.title>Operating engineer</TurianOpEng.title>
+  <TurianOpEng.titleShort>Op-Engineer</TurianOpEng.titleShort>
+  <TurianOpEng.baseDescription>[PAWN_nameDef] operated heavy machinery for construction. This also translated over to [PAWN_possessive] hobbies, as [PAWN_pronoun] also loved tilling the soil and creating [PAWN_possessive] home garden.</TurianOpEng.baseDescription>
+
+  <CSecOfficer.title>C-Sec Officer</CSecOfficer.title>
+  <CSecOfficer.titleShort>Officer</CSecOfficer.titleShort>
+  <CSecOfficer.baseDescription>[PAWN_nameDef] worked for the Citadel's security detail. [PAWN_pronoun] was vigilant in [PAWN_possessive] duties, enforcing the citadel's laws to the best of [PAWN_possessive] ability.</CSecOfficer.baseDescription>
+
+  <Spectre.title>Spectre</Spectre.title>
+  <Spectre.titleShort>Spectre</Spectre.titleShort>
+  <Spectre.baseDescription>[PAWN_nameDef] was an agent entrusted with extraordinary authority by the Citadel Council, including the power of life and death over the inhabitants of the galaxy. [PAWN_pronoun] primary responsibility was to preserve galactic stability by whatever means necessary. </Spectre.baseDescription>
+
+  <TurianEngineer.title>Turian Mechanic</TurianEngineer.title>
+  <TurianEngineer.titleShort>Greasehead</TurianEngineer.titleShort>
+  <TurianEngineer.baseDescription>[PAWN_nameDef] worked with [PAWN_possessive] father, running an old Auto-repair shop in a dusty frontier town. How [PAWN_pronoun] ended up here is a mystery...</TurianEngineer.baseDescription>
+
+  <TurianSpacer.title>Turian Spacer</TurianSpacer.title>
+  <TurianSpacer.titleShort>Rocket</TurianSpacer.titleShort>
+  <TurianSpacer.baseDescription>[PAWN_nameDef] grew up working on [PAWN_possessive] parents' space hotel. It was an old abandoned orbital science facility that had been converted over to cater to a space-loving wealthy clientele. A sudden meteor shower brought it all to an abrupt end one day though - luckily enough, everyone made it to the escape pods...</TurianSpacer.baseDescription>
+
+  <TurianColonyKid.title>Turian Colony Kid</TurianColonyKid.title>
+  <TurianColonyKid.titleShort>Kid</TurianColonyKid.titleShort>
+  <TurianColonyKid.baseDescription>[PAWN_nameDef] was born in a small trading post on the outer rims. [PAWN_pronoun] had to learn to carry [PAWN_possessive] weight and keep the colony running from an early age.</TurianColonyKid.baseDescription>
+
+  <TurianCityKid.title>City Kid</TurianCityKid.title>
+  <TurianCityKid.titleShort>Palaven-Kid</TurianCityKid.titleShort>
+  <TurianCityKid.baseDescription>[PAWN_nameDef] grew up in one of the megalopolis centers on Palaven. After school, [PAWN_pronoun] would head off to one of the metro malls or arcades. Growing up in a concrete landscape, left [PAWN_pronoun] a bit lacking when it comes to plants and animals.</TurianCityKid.baseDescription>
+
+  <TurianCountryKid.title>Farm Kid</TurianCountryKid.title>
+  <TurianCountryKid.titleShort>Farm-Kid</TurianCountryKid.titleShort>
+  <TurianCountryKid.baseDescription>[PAWN_nameDef] grew up in an agricultural region, supporting the major metropolises food supply on [PAWN_possessive] Palaven. Living so far from other young people made social life difficult, but [PAWN_nameDef] made the best of it - though [PAWN_pronoun] ended up a bit shy.</TurianCountryKid.baseDescription>
+
+  <TurianGeniusKid.title>Young genius</TurianGeniusKid.title>
+  <TurianGeniusKid.titleShort>Prodigy</TurianGeniusKid.titleShort>
+  <TurianGeniusKid.baseDescription>[PAWN_nameDef] loved tinkering with [PAWN_possessive] toys, taking them apart and reassembling them - programming simple little computer programs from [PAWN_possessive] elementary school textbooks - or simply reading any piece of information [PAWN_pronoun] can get [PAWN_possessive] hands on.</TurianGeniusKid.baseDescription>
+
+
+  <!-- Adult Stories - not porn -->
+
+  <TurianGunmaker.title>Gunsmith</TurianGunmaker.title>
+  <TurianGunmaker.titleShort>Gunsmith</TurianGunmaker.titleShort>
+  <TurianGunmaker.baseDescription>[PAWN_nameDef] was interested in guns and firearms of all kinds from a young age. [PAWN_possessive] interest developed into a passion, and [PAWN_pronoun] became one of the foremost independant weapons designers of the allied races.</TurianGunmaker.baseDescription>
+
+  <TurianSexSlave.title>Consort</TurianSexSlave.title>
+  <TurianSexSlave.titleShort>Consort</TurianSexSlave.titleShort>
+  <TurianSexSlave.baseDescription>[PAWN_nameDef] was captured by slavers and sold to a lecherous tycoon. [PAWN_pronoun] was forced to tend the gardens, and do all sorts of lewd acts for [PAWN_possessive] 'owner', but grew accustomed to the otherwise lavish environment, and spoiled as far as labor is concerned.</TurianSexSlave.baseDescription>
+
+  <TurianLasminer.title>Turian Lasminer</TurianLasminer.title>
+  <TurianLasminer.titleShort>Lasminer</TurianLasminer.titleShort>
+  <TurianLasminer.baseDescription>[PAWN_nameDef] operated a laser-mining rig at an advanced asteroidal mining station, and occasionally operated manual equipment when they'd pumped atmosphere into a particularly rich shaft. [PAWN_pronoun] developed a strong back and keen eye with [PAWN_possessive] laser-drill.</TurianLasminer.baseDescription>
+
+  <TurianHunterBS.title>Turian Hunter</TurianHunterBS.title>
+  <TurianHunterBS.titleShort>Hunter</TurianHunterBS.titleShort>
+  <TurianHunterBS.baseDescription>[PAWN_nameDef] is a professional hunter. Sometimes called to put down manhunters, or guide rich dentists on Safari, [PAWN_possessive] skills as a tracker are only matched by [PAWN_possessive] skill at handling.</TurianHunterBS.baseDescription>
+
+  <TurianFarmer.title>Turbofarmer</TurianFarmer.title>
+  <TurianFarmer.titleShort>Turbofarmer</TurianFarmer.titleShort>
+  <TurianFarmer.baseDescription>[PAWN_nameDef] managed a ranch that grew large quantities of feed-stock for Xenguana. [PAWN_pronoun] was on [PAWN_possessive] way to a big ag-conference on the nearby moon, when pirates attacked the shuttle! Luckily, the law intervened, but not before the shuttle had taken serious damage, forcing everyone to abandon ship and make for the escape pods...</TurianFarmer.baseDescription>
+
+  <TurianTrailblazer.title>Trailblazer</TurianTrailblazer.title>
+  <TurianTrailblazer.titleShort>Blazer</TurianTrailblazer.titleShort>
+  <TurianTrailblazer.baseDescription>[PAWN_nameDef] is at the forefront of the effort to expand the territories controlled by the Alliance - rushing headlong into the unknown to colonize uncharted worlds and eke out a living.</TurianTrailblazer.baseDescription>
+
+  <TurianResearch.title>Intel Research</TurianResearch.title>
+  <TurianResearch.titleShort>Research</TurianResearch.titleShort>
+  <TurianResearch.baseDescription>[PAWN_nameDef] was head of research in the headquarters for the Turian Intelligence Service, investigating and untangling the webs of lies surrounding enemy agents. [PAWN_pronoun] even helped to uncover an enemy mole, (not a gofer) who was compromising agents in the field.</TurianResearch.baseDescription>
+
+  <TurianDoctor.title>Frontier doctor</TurianDoctor.title>
+  <TurianDoctor.titleShort>Doc</TurianDoctor.titleShort>
+  <TurianDoctor.baseDescription>[PAWN_nameDef] has taken an oath to devote [PAWN_possessive] life to healing others. [PAWN_pronoun] has taken [PAWN_possessive] mission out to the furthest reaches and the dustiest outposts. You know... places like this...</TurianDoctor.baseDescription>
+
+  <TurianChef.title>Turian line-cook</TurianChef.title>
+  <TurianChef.titleShort>Line-cook</TurianChef.titleShort>
+  <TurianChef.baseDescription>[PAWN_nameDef] is a line-cook, a cook working under a master chef in a big kitchen. [PAWN_pronoun] has helped prepare meals for some of the highest functionaries in Turian and Xenn society.</TurianChef.baseDescription>
+
+  <TurianArchivist.title>Turian archivist</TurianArchivist.title>
+  <TurianArchivist.titleShort>Alpha</TurianArchivist.titleShort>
+  <TurianArchivist.baseDescription>[PAWN_nameDef] bears the burden of leadership among [PAWN_possessive] community. Turian are a curious and somewhat furtive race, this leads them to collectively horde knowledge. So much so, that their Leaders are called "Archivists", and they serve this function as well as governmental administration. Among [PAWN_possessive] peers, [PAWN_nameDef] is that leader.</TurianArchivist.baseDescription>
+
+  <PrivateTurian.title>Courier agent</PrivateTurian.title>
+  <PrivateTurian.titleShort>Courier</PrivateTurian.titleShort>
+  <PrivateTurian.baseDescription>[PAWN_nameDef] is a low-ranking courier agent for the Turian intelligence. It is [PAWN_possessive] duty to deliver small items and packages, or information, wherever [PAWN_possessive] superiors order.</PrivateTurian.baseDescription>
+
+  <MajorTurian.title>Turian scalphunter</MajorTurian.title>
+  <MajorTurian.titleShort>Scalphunter</MajorTurian.titleShort>
+  <MajorTurian.baseDescription>[PAWN_nameDef] is a 'scalphunter' for Turian intelligence. [PAWN_pronoun] does the 'dirty work' - spotting, seducing, and 'disposing of' enemy agents. Charming, but deadly.</MajorTurian.baseDescription>
+
+  <TurianSpacerAdult.title>Turian space-trader</TurianSpacerAdult.title>
+  <TurianSpacerAdult.titleShort>R-Spacer</TurianSpacerAdult.titleShort>
+  <TurianSpacerAdult.baseDescription>[PAWN_nameDef] was a free-trader, roving the Turian Empire and it's neighbors space searching for deals and opportunities for profit. Until now, HE was flying a ship, making deals with colonies like these... I wonder what happened?</TurianSpacerAdult.baseDescription>
+
+  <TurianRocket.title>Rocketeer</TurianRocket.title>
+  <TurianRocket.titleShort>Rocket</TurianRocket.titleShort>
+  <TurianRocket.baseDescription>[PAWN_nameDef] was one of an experimental corps of rocket-troops. The troops performed well, but problems with the rocket cooling systems, and more than a few scorched tails, led to the abandonment of the project, but [PAWN_pronoun] will never forget the feeling of flying with nothing but a self-stabilizing rocket strapped to [PAWN_possessive] back!</TurianRocket.baseDescription>
+
+  <TurianProgrammer.title>Turian programmer</TurianProgrammer.title>
+  <TurianProgrammer.titleShort>Programmer</TurianProgrammer.titleShort>
+  <TurianProgrammer.baseDescription>[PAWN_nameDef] has spent many sleepless nights hammering away at a console (not literally with a hammer - though sometimes [PAWN_pronoun] wanted to). This allowed [PAWN_pronoun] to fund [PAWN_possessive] second passion... Firearms. [PAWN_pronoun] would vent [PAWN_possessive] frustrations at the shooting range as often as [PAWN_pronoun] could.</TurianProgrammer.baseDescription>
+
+  <Turianmechw.title>Mech pilot</Turianmechw.title>
+  <Turianmechw.titleShort>Mechwarrior</Turianmechw.titleShort>
+  <Turianmechw.baseDescription>[PAWN_nameDef] is a Battlemech pilot, a Mech Warrior. Operating these massive walking tanks, MechWarriors serve in the armies of the Great Houses or as part of a Mercenary unit, fight in the gladiatorial arenas of Solaris VII, or operate on the fringes of society as pirates and bandits. Among the Clans, a MechWarrior can either be trueborn or freeborn, with the former enjoying greater social standing.
+    The jumpship HE was on had a jump-drive failure, casting them off into the unknown. After waiting several weeks for rescue, with supplies running low, the crew decided to use the escape pods at the nearest habitable planet...
+    </Turianmechw.baseDescription>
+
+  <TurianXRestar.title>Restaurateur</TurianXRestar.title>
+  <TurianXRestar.titleShort>Restaurateur</TurianXRestar.titleShort>
+  <TurianXRestar.baseDescription>[PAWN_nameDef] owned and operated a chain of successful high-class urbworld restaurants. Unfortunately, they didn't survive the franchise wars against Taco Gong, and [PAWN_pronoun] was forced to flee the planet.</TurianXRestar.baseDescription>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Alien_Turian.label>Turian</Alien_Turian.label>
+  <Alien_Turian.description>The most distinguishing feature of turians is their metallic carapace. The turians evolved this trait as a defense against the greater levels of solar radiation that penetrate their homeworld's weak magnetic field.</Alien_Turian.description>
+  <Alien_Turian.tools.0.label>left fist</Alien_Turian.tools.0.label>
+  <Alien_Turian.tools.1.label>right fist</Alien_Turian.tools.1.label>
+  <Alien_Turian.tools.2.label>teeth</Alien_Turian.tools.2.label>
+  <Alien_Turian.tools.3.label>head</Alien_Turian.tools.3.label>
+
+
+</LanguageData>
