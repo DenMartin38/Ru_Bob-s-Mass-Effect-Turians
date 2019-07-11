@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TurianHierarchy.label>Turian Hierarchy</TurianHierarchy.label>
-  <TurianHierarchy.description>The formal head of turian space.</TurianHierarchy.description>
-  <TurianHierarchy.pawnsPlural>Turian</TurianHierarchy.pawnsPlural>
-  <TurianHierarchy.leaderTitle>Primarch</TurianHierarchy.leaderTitle>
+  <TurianHierarchy.label>Турианская Иерархия</TurianHierarchy.label>
+  <TurianHierarchy.description>Формальный глава турианского пространства.</TurianHierarchy.description>
+  <TurianHierarchy.pawnsPlural>Туриан</TurianHierarchy.pawnsPlural>
+  <TurianHierarchy.leaderTitle>Примарх</TurianHierarchy.leaderTitle>
 
 
 </LanguageData>

@@ -3,67 +3,67 @@
 
   <!-- Turian Civilians -->
 
-  <TurianColonist.label>colonist</TurianColonist.label>
-  <TurianColonist.labelPlural>colonists</TurianColonist.labelPlural>
-  <TurianColonist.labelMale>male colonist</TurianColonist.labelMale>
-  <TurianColonist.labelMalePlural>male colonists</TurianColonist.labelMalePlural>
-  <TurianColonist.labelFemale>female colonist</TurianColonist.labelFemale>
-  <TurianColonist.labelFemalePlural>female colonists</TurianColonist.labelFemalePlural>
+  <TurianColonist.label>житель</TurianColonist.label>
+  <TurianColonist.labelPlural>жители</TurianColonist.labelPlural>
+  <TurianColonist.labelMale>житель</TurianColonist.labelMale>
+  <TurianColonist.labelMalePlural>жители</TurianColonist.labelMalePlural>
+  <TurianColonist.labelFemale>жительницы</TurianColonist.labelFemale>
+  <TurianColonist.labelFemalePlural>жительницы</TurianColonist.labelFemalePlural>
 
-  <TurianArchivist.label>archivist</TurianArchivist.label>
-  <TurianArchivist.labelPlural>archivists</TurianArchivist.labelPlural>
-  <TurianArchivist.labelMale>male archivist</TurianArchivist.labelMale>
-  <TurianArchivist.labelMalePlural>male archivists</TurianArchivist.labelMalePlural>
-  <TurianArchivist.labelFemale>female archivist</TurianArchivist.labelFemale>
-  <TurianArchivist.labelFemalePlural>female archivists</TurianArchivist.labelFemalePlural>
+  <TurianArchivist.label>архивариус</TurianArchivist.label>
+  <TurianArchivist.labelPlural>архивариусы</TurianArchivist.labelPlural>
+  <TurianArchivist.labelMale>архивариус</TurianArchivist.labelMale>
+  <TurianArchivist.labelMalePlural>архивариусы</TurianArchivist.labelMalePlural>
+  <TurianArchivist.labelFemale>архивариусы</TurianArchivist.labelFemale>
+  <TurianArchivist.labelFemalePlural>архивариусы</TurianArchivist.labelFemalePlural>
 
-  <TurianTrader.label>colony trader</TurianTrader.label>
-  <TurianTrader.labelPlural>colony traders</TurianTrader.labelPlural>
-  <TurianTrader.labelMale>male colony trader</TurianTrader.labelMale>
-  <TurianTrader.labelMalePlural>male colony traders</TurianTrader.labelMalePlural>
-  <TurianTrader.labelFemale>female colony trader</TurianTrader.labelFemale>
-  <TurianTrader.labelFemalePlural>female colony traders</TurianTrader.labelFemalePlural>
+  <TurianTrader.label>торговец</TurianTrader.label>
+  <TurianTrader.labelPlural>торговцы</TurianTrader.labelPlural>
+  <TurianTrader.labelMale>торговец</TurianTrader.labelMale>
+  <TurianTrader.labelMalePlural>торговцы</TurianTrader.labelMalePlural>
+  <TurianTrader.labelFemale>торговец</TurianTrader.labelFemale>
+  <TurianTrader.labelFemalePlural>торговцы</TurianTrader.labelFemalePlural>
 
-  <TurianSlave.label>Slave</TurianSlave.label>
-  <TurianSlave.labelPlural>Slaves</TurianSlave.labelPlural>
-  <TurianSlave.labelMale>male Slave</TurianSlave.labelMale>
-  <TurianSlave.labelMalePlural>male Slaves</TurianSlave.labelMalePlural>
-  <TurianSlave.labelFemale>female Slave</TurianSlave.labelFemale>
-  <TurianSlave.labelFemalePlural>female Slaves</TurianSlave.labelFemalePlural>
+  <TurianSlave.label>раб</TurianSlave.label>
+  <TurianSlave.labelPlural>рабы</TurianSlave.labelPlural>
+  <TurianSlave.labelMale>раб</TurianSlave.labelMale>
+  <TurianSlave.labelMalePlural>рабы</TurianSlave.labelMalePlural>
+  <TurianSlave.labelFemale>рабыня</TurianSlave.labelFemale>
+  <TurianSlave.labelFemalePlural>рабыни</TurianSlave.labelFemalePlural>
 
-  <TurianRefugee.label>Refugee</TurianRefugee.label>
-  <TurianRefugee.labelPlural>Refugees</TurianRefugee.labelPlural>
-  <TurianRefugee.labelMale>male Refugee</TurianRefugee.labelMale>
-  <TurianRefugee.labelMalePlural>male Refugees</TurianRefugee.labelMalePlural>
-  <TurianRefugee.labelFemale>female Refugee</TurianRefugee.labelFemale>
-  <TurianRefugee.labelFemalePlural>female Refugees</TurianRefugee.labelFemalePlural>
+  <TurianRefugee.label>беженец</TurianRefugee.label>
+  <TurianRefugee.labelPlural>беженцы</TurianRefugee.labelPlural>
+  <TurianRefugee.labelMale>беженец</TurianRefugee.labelMale>
+  <TurianRefugee.labelMalePlural>беженцы</TurianRefugee.labelMalePlural>
+  <TurianRefugee.labelFemale>беженка</TurianRefugee.labelFemale>
+  <TurianRefugee.labelFemalePlural>беженкки</TurianRefugee.labelFemalePlural>
 
 
   <!-- Turian Security -->
 
-  <TurianSecurityGuard.label>Security Guard</TurianSecurityGuard.label>
-  <TurianSecurityGuard.labelPlural>Security Guards</TurianSecurityGuard.labelPlural>
-  <TurianSecurityGuard.labelMale>male Security Guard</TurianSecurityGuard.labelMale>
-  <TurianSecurityGuard.labelMalePlural>male Security Guards</TurianSecurityGuard.labelMalePlural>
-  <TurianSecurityGuard.labelFemale>female Security Guard</TurianSecurityGuard.labelFemale>
-  <TurianSecurityGuard.labelFemalePlural>female Security Guards</TurianSecurityGuard.labelFemalePlural>
+  <TurianSecurityGuard.label>охранник</TurianSecurityGuard.label>
+  <TurianSecurityGuard.labelPlural>охранники</TurianSecurityGuard.labelPlural>
+  <TurianSecurityGuard.labelMale>охранник</TurianSecurityGuard.labelMale>
+  <TurianSecurityGuard.labelMalePlural>охранники</TurianSecurityGuard.labelMalePlural>
+  <TurianSecurityGuard.labelFemale>охранница</TurianSecurityGuard.labelFemale>
+  <TurianSecurityGuard.labelFemalePlural>охранницы</TurianSecurityGuard.labelFemalePlural>
 
 
   <!-- Turian Military -->
 
-  <TurianHunter.label>hunter</TurianHunter.label>
-  <TurianHunter.labelPlural>hunters</TurianHunter.labelPlural>
-  <TurianHunter.labelMale>male hunter</TurianHunter.labelMale>
-  <TurianHunter.labelMalePlural>male hunters</TurianHunter.labelMalePlural>
-  <TurianHunter.labelFemale>female hunter</TurianHunter.labelFemale>
-  <TurianHunter.labelFemalePlural>female hunters</TurianHunter.labelFemalePlural>
+  <TurianHunter.label>охотник</TurianHunter.label>
+  <TurianHunter.labelPlural>охотники</TurianHunter.labelPlural>
+  <TurianHunter.labelMale>охотник</TurianHunter.labelMale>
+  <TurianHunter.labelMalePlural>охотники</TurianHunter.labelMalePlural>
+  <TurianHunter.labelFemale>охотница</TurianHunter.labelFemale>
+  <TurianHunter.labelFemalePlural>охотницы</TurianHunter.labelFemalePlural>
 
-  <TurianSoldier.label>Soldier</TurianSoldier.label>
-  <TurianSoldier.labelPlural>Soldiers</TurianSoldier.labelPlural>
-  <TurianSoldier.labelMale>male Soldier</TurianSoldier.labelMale>
-  <TurianSoldier.labelMalePlural>male Soldiers</TurianSoldier.labelMalePlural>
-  <TurianSoldier.labelFemale>female Soldier</TurianSoldier.labelFemale>
-  <TurianSoldier.labelFemalePlural>female Soldiers</TurianSoldier.labelFemalePlural>
+  <TurianSoldier.label>солдат</TurianSoldier.label>
+  <TurianSoldier.labelPlural>солдаты</TurianSoldier.labelPlural>
+  <TurianSoldier.labelMale>солдат</TurianSoldier.labelMale>
+  <TurianSoldier.labelMalePlural>солдаты</TurianSoldier.labelMalePlural>
+  <TurianSoldier.labelFemale>солдат</TurianSoldier.labelFemale>
+  <TurianSoldier.labelFemalePlural>солдаты</TurianSoldier.labelFemalePlural>
 
 
 </LanguageData>

@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Turian.label>Turian</Turian.label>
-  <Turian.corePart.parts.6.customLabel>left lung</Turian.corePart.parts.6.customLabel>
-  <Turian.corePart.parts.7.customLabel>right lung</Turian.corePart.parts.7.customLabel>
-  <Turian.corePart.parts.8.customLabel>left kidney</Turian.corePart.parts.8.customLabel>
-  <Turian.corePart.parts.9.customLabel>right kidney</Turian.corePart.parts.9.customLabel>
-  <Turian.corePart.parts.11.parts.0.parts.1.customLabel>left eye</Turian.corePart.parts.11.parts.0.parts.1.customLabel>
-  <Turian.corePart.parts.11.parts.0.parts.2.customLabel>right eye</Turian.corePart.parts.11.parts.0.parts.2.customLabel>
-  <Turian.corePart.parts.11.parts.0.parts.3.customLabel>left ear</Turian.corePart.parts.11.parts.0.parts.3.customLabel>
-  <Turian.corePart.parts.11.parts.0.parts.4.customLabel>right ear</Turian.corePart.parts.11.parts.0.parts.4.customLabel>
-  <Turian.corePart.parts.12.customLabel>left shoulder</Turian.corePart.parts.12.customLabel>
-  <Turian.corePart.parts.12.parts.0.customLabel>left clavicle</Turian.corePart.parts.12.parts.0.customLabel>
-  <Turian.corePart.parts.12.parts.1.customLabel>left arm</Turian.corePart.parts.12.parts.1.customLabel>
-  <Turian.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</Turian.corePart.parts.12.parts.1.parts.0.customLabel>
-  <Turian.corePart.parts.12.parts.1.parts.1.customLabel>left radius</Turian.corePart.parts.12.parts.1.parts.1.customLabel>
-  <Turian.corePart.parts.12.parts.1.parts.2.customLabel>left hand</Turian.corePart.parts.12.parts.1.parts.2.customLabel>
-  <Turian.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</Turian.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
-  <Turian.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left index finger</Turian.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
-  <Turian.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left thumb</Turian.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
-  <Turian.corePart.parts.13.customLabel>right shoulder</Turian.corePart.parts.13.customLabel>
-  <Turian.corePart.parts.13.parts.0.customLabel>right clavicle</Turian.corePart.parts.13.parts.0.customLabel>
-  <Turian.corePart.parts.13.parts.1.customLabel>right arm</Turian.corePart.parts.13.parts.1.customLabel>
-  <Turian.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</Turian.corePart.parts.13.parts.1.parts.0.customLabel>
-  <Turian.corePart.parts.13.parts.1.parts.1.customLabel>right radius</Turian.corePart.parts.13.parts.1.parts.1.customLabel>
-  <Turian.corePart.parts.13.parts.1.parts.2.customLabel>right hand</Turian.corePart.parts.13.parts.1.parts.2.customLabel>
-  <Turian.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</Turian.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
-  <Turian.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right index finger</Turian.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
-  <Turian.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right thumb</Turian.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
-  <Turian.corePart.parts.15.customLabel>left leg</Turian.corePart.parts.15.customLabel>
-  <Turian.corePart.parts.15.parts.0.customLabel>left femur</Turian.corePart.parts.15.parts.0.customLabel>
-  <Turian.corePart.parts.15.parts.1.customLabel>left tibia</Turian.corePart.parts.15.parts.1.customLabel>
-  <Turian.corePart.parts.15.parts.2.customLabel>left foot</Turian.corePart.parts.15.parts.2.customLabel>
-  <Turian.corePart.parts.15.parts.2.parts.0.customLabel>left little toe</Turian.corePart.parts.15.parts.2.parts.0.customLabel>
-  <Turian.corePart.parts.15.parts.2.parts.1.customLabel>left second toe</Turian.corePart.parts.15.parts.2.parts.1.customLabel>
-  <Turian.corePart.parts.15.parts.2.parts.2.customLabel>left big toe</Turian.corePart.parts.15.parts.2.parts.2.customLabel>
-  <Turian.corePart.parts.16.customLabel>right leg</Turian.corePart.parts.16.customLabel>
-  <Turian.corePart.parts.16.parts.0.customLabel>right femur</Turian.corePart.parts.16.parts.0.customLabel>
-  <Turian.corePart.parts.16.parts.1.customLabel>right tibia</Turian.corePart.parts.16.parts.1.customLabel>
-  <Turian.corePart.parts.16.parts.2.customLabel>right foot</Turian.corePart.parts.16.parts.2.customLabel>
-  <Turian.corePart.parts.16.parts.2.parts.0.customLabel>right little toe</Turian.corePart.parts.16.parts.2.parts.0.customLabel>
-  <Turian.corePart.parts.16.parts.2.parts.1.customLabel>right second toe</Turian.corePart.parts.16.parts.2.parts.1.customLabel>
-  <Turian.corePart.parts.16.parts.2.parts.2.customLabel>right big toe</Turian.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Turian.label>Туриан</Turian.label>
+  <Turian.corePart.parts.6.customLabel>левое лёгкое</Turian.corePart.parts.6.customLabel>
+  <Turian.corePart.parts.7.customLabel>правое лёгкое</Turian.corePart.parts.7.customLabel>
+  <Turian.corePart.parts.8.customLabel>левая почка</Turian.corePart.parts.8.customLabel>
+  <Turian.corePart.parts.9.customLabel>правая почка</Turian.corePart.parts.9.customLabel>
+  <Turian.corePart.parts.11.parts.0.parts.1.customLabel>левый глаз</Turian.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Turian.corePart.parts.11.parts.0.parts.2.customLabel>правый глаз</Turian.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Turian.corePart.parts.11.parts.0.parts.3.customLabel>левое ухо</Turian.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Turian.corePart.parts.11.parts.0.parts.4.customLabel>правое ухо</Turian.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Turian.corePart.parts.12.customLabel>левое плечо</Turian.corePart.parts.12.customLabel>
+  <Turian.corePart.parts.12.parts.0.customLabel>левая ключица</Turian.corePart.parts.12.parts.0.customLabel>
+  <Turian.corePart.parts.12.parts.1.customLabel>левая рука</Turian.corePart.parts.12.parts.1.customLabel>
+  <Turian.corePart.parts.12.parts.1.parts.0.customLabel>левая плечевая кость</Turian.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Turian.corePart.parts.12.parts.1.parts.1.customLabel>левая лучевая кость</Turian.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Turian.corePart.parts.12.parts.1.parts.2.customLabel>левая ладонь</Turian.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Turian.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>левый мизинец</Turian.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Turian.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>левый указательный палец</Turian.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Turian.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>левый большой палец</Turian.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Turian.corePart.parts.13.customLabel>правое плечо</Turian.corePart.parts.13.customLabel>
+  <Turian.corePart.parts.13.parts.0.customLabel>правая ключица</Turian.corePart.parts.13.parts.0.customLabel>
+  <Turian.corePart.parts.13.parts.1.customLabel>правая рука</Turian.corePart.parts.13.parts.1.customLabel>
+  <Turian.corePart.parts.13.parts.1.parts.0.customLabel>правая плечевая кость</Turian.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Turian.corePart.parts.13.parts.1.parts.1.customLabel>правая лучевая кость</Turian.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Turian.corePart.parts.13.parts.1.parts.2.customLabel>правая ладонь</Turian.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Turian.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>правый мизинец</Turian.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Turian.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>правый указательный палец</Turian.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Turian.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>правый большой палец</Turian.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Turian.corePart.parts.15.customLabel>левая нога</Turian.corePart.parts.15.customLabel>
+  <Turian.corePart.parts.15.parts.0.customLabel>левое бедро</Turian.corePart.parts.15.parts.0.customLabel>
+  <Turian.corePart.parts.15.parts.1.customLabel>левая голень</Turian.corePart.parts.15.parts.1.customLabel>
+  <Turian.corePart.parts.15.parts.2.customLabel>левая ступня</Turian.corePart.parts.15.parts.2.customLabel>
+  <Turian.corePart.parts.15.parts.2.parts.0.customLabel>левый мизинец ноги</Turian.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Turian.corePart.parts.15.parts.2.parts.1.customLabel>левый средний палец ноги</Turian.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Turian.corePart.parts.15.parts.2.parts.2.customLabel>левый большой палец ноги</Turian.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Turian.corePart.parts.16.customLabel>правая нога</Turian.corePart.parts.16.customLabel>
+  <Turian.corePart.parts.16.parts.0.customLabel>правое бедро</Turian.corePart.parts.16.parts.0.customLabel>
+  <Turian.corePart.parts.16.parts.1.customLabel>правая голень</Turian.corePart.parts.16.parts.1.customLabel>
+  <Turian.corePart.parts.16.parts.2.customLabel>правая ступня</Turian.corePart.parts.16.parts.2.customLabel>
+  <Turian.corePart.parts.16.parts.2.parts.0.customLabel>правый мизинец ноги</Turian.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Turian.corePart.parts.16.parts.2.parts.1.customLabel>правый средний палец ноги</Turian.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Turian.corePart.parts.16.parts.2.parts.2.customLabel>правый большой палец ноги</Turian.corePart.parts.16.parts.2.parts.2.customLabel>
 
 
 </LanguageData>
