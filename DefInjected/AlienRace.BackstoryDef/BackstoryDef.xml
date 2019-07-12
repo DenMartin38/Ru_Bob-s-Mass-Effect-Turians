@@ -1,118 +1,118 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TurianToughkid.title>Tough-kid</TurianToughkid.title>
-  <TurianToughkid.titleShort>Tough-kid</TurianToughkid.titleShort>
-  <TurianToughkid.baseDescription>[PAWN_nameDef] grew faster than [PAWN_possessive] young peers, but [PAWN_pronoun] was a 'gentle giant' of sorts, using [PAWN_possessive] strength to protect [PAWN_possessive] friends from bullies.</TurianToughkid.baseDescription>
+  <TurianToughkid.title>Крепкий парень</TurianToughkid.title>
+  <TurianToughkid.titleShort>Крепкий парень</TurianToughkid.titleShort>
+  <TurianToughkid.baseDescription>[PAWN_nameDef] рос быстрее, чем сверстники [PAWN_possessive], но [PAWN_pronoun] был своего рода 'безобидным здоровяком', использующим силу [PAWN_possessive] для защиты друзей [PAWN_possessive] friends от хулиганов.</TurianToughkid.baseDescription>
 
-  <TurianOpEng.title>Operating engineer</TurianOpEng.title>
-  <TurianOpEng.titleShort>Op-Engineer</TurianOpEng.titleShort>
-  <TurianOpEng.baseDescription>[PAWN_nameDef] operated heavy machinery for construction. This also translated over to [PAWN_possessive] hobbies, as [PAWN_pronoun] also loved tilling the soil and creating [PAWN_possessive] home garden.</TurianOpEng.baseDescription>
+  <TurianOpEng.title>Оперативный инженер</TurianOpEng.title>
+  <TurianOpEng.titleShort>Оп-Инженер</TurianOpEng.titleShort>
+  <TurianOpEng.baseDescription>[PAWN_nameDef] управлял тяжелой техникой для строительства. Это стало хобби [PAWN_possessive], так как [PAWN_pronoun] любил пахать почву и ухаживать [PAWN_possessive] домашний сад.</TurianOpEng.baseDescription>
 
-  <CSecOfficer.title>C-Sec Officer</CSecOfficer.title>
-  <CSecOfficer.titleShort>Officer</CSecOfficer.titleShort>
-  <CSecOfficer.baseDescription>[PAWN_nameDef] worked for the Citadel's security detail. [PAWN_pronoun] was vigilant in [PAWN_possessive] duties, enforcing the citadel's laws to the best of [PAWN_possessive] ability.</CSecOfficer.baseDescription>
+  <CSecOfficer.title>СБЦ-Офицер</CSecOfficer.title>
+  <CSecOfficer.titleShort>Офицер</CSecOfficer.titleShort>
+  <CSecOfficer.baseDescription>[PAWN_nameDef] работал на охрану Цитатели. [PAWN_pronoun] был бдителен в обязанностях [PAWN_possessive], применяя законы цитадели в меру своих [PAWN_possessive] способностей.</CSecOfficer.baseDescription>
 
-  <Spectre.title>Spectre</Spectre.title>
-  <Spectre.titleShort>Spectre</Spectre.titleShort>
-  <Spectre.baseDescription>[PAWN_nameDef] was an agent entrusted with extraordinary authority by the Citadel Council, including the power of life and death over the inhabitants of the galaxy. [PAWN_pronoun] primary responsibility was to preserve galactic stability by whatever means necessary. </Spectre.baseDescription>
+  <Spectre.title>Спектр</Spectre.title>
+  <Spectre.titleShort>Спектр</Spectre.titleShort>
+  <Spectre.baseDescription>[PAWN_nameDef] был агентом, которого наделил Совет Цитадели властью. Это лучшие воины, которые заботятся о мире и стабильности любым способом, который сочтут необходимым.</Spectre.baseDescription>
 
-  <TurianEngineer.title>Turian Mechanic</TurianEngineer.title>
-  <TurianEngineer.titleShort>Greasehead</TurianEngineer.titleShort>
-  <TurianEngineer.baseDescription>[PAWN_nameDef] worked with [PAWN_possessive] father, running an old Auto-repair shop in a dusty frontier town. How [PAWN_pronoun] ended up here is a mystery...</TurianEngineer.baseDescription>
+  <TurianEngineer.title>Турианский механик</TurianEngineer.title>
+  <TurianEngineer.titleShort>Механик</TurianEngineer.titleShort>
+  <TurianEngineer.baseDescription>[PAWN_nameDef] работал с отцом [PAWN_possessive], управляющим старой авторемонтной мастерской в пыльном приграничном городе. Как [PAWN_pronoun] оказался здесь, остается загадкой...</TurianEngineer.baseDescription>
 
   <TurianSpacer.title>Turian Spacer</TurianSpacer.title>
   <TurianSpacer.titleShort>Rocket</TurianSpacer.titleShort>
-  <TurianSpacer.baseDescription>[PAWN_nameDef] grew up working on [PAWN_possessive] parents' space hotel. It was an old abandoned orbital science facility that had been converted over to cater to a space-loving wealthy clientele. A sudden meteor shower brought it all to an abrupt end one day though - luckily enough, everyone made it to the escape pods...</TurianSpacer.baseDescription>
+  <TurianSpacer.baseDescription>[PAWN_nameDef] вырос, работая над космическим отелем [PAWN_possessive] родителей. Это был старый заброшенный орбитальный научный центр, который был переделан для обслуживания богатой клиентуры. Внезапный метеорный поток привел к печальному завершению - к счастью, все добрались до спасательных капсул...</TurianSpacer.baseDescription>
 
-  <TurianColonyKid.title>Turian Colony Kid</TurianColonyKid.title>
-  <TurianColonyKid.titleShort>Kid</TurianColonyKid.titleShort>
-  <TurianColonyKid.baseDescription>[PAWN_nameDef] was born in a small trading post on the outer rims. [PAWN_pronoun] had to learn to carry [PAWN_possessive] weight and keep the colony running from an early age.</TurianColonyKid.baseDescription>
+  <TurianColonyKid.title>Дитя колонии</TurianColonyKid.title>
+  <TurianColonyKid.titleShort>Дитя</TurianColonyKid.titleShort>
+  <TurianColonyKid.baseDescription>[PAWN_nameDef] родился на небольшой торговой точке во внешнем кольце. [PAWN_pronoun] должен был справляться с тяжелыми нагрузками и поддерживать колонию в рабочем состоянии с раннего возраста.</TurianColonyKid.baseDescription>
 
-  <TurianCityKid.title>City Kid</TurianCityKid.title>
-  <TurianCityKid.titleShort>Palaven-Kid</TurianCityKid.titleShort>
-  <TurianCityKid.baseDescription>[PAWN_nameDef] grew up in one of the megalopolis centers on Palaven. After school, [PAWN_pronoun] would head off to one of the metro malls or arcades. Growing up in a concrete landscape, left [PAWN_pronoun] a bit lacking when it comes to plants and animals.</TurianCityKid.baseDescription>
+  <TurianCityKid.title>Городской ребёнок</TurianCityKid.title>
+  <TurianCityKid.titleShort>Дитя Палавена</TurianCityKid.titleShort>
+  <TurianCityKid.baseDescription>[PAWN_nameDef] вырос в одном из центров мегаполиса на Палавене. После школы, [PAWN_pronoun] отправлялся в один из торговых центров или галерей. Из-за специфического ландшафта, на планете не хватало растений и животных.</TurianCityKid.baseDescription>
 
-  <TurianCountryKid.title>Farm Kid</TurianCountryKid.title>
-  <TurianCountryKid.titleShort>Farm-Kid</TurianCountryKid.titleShort>
-  <TurianCountryKid.baseDescription>[PAWN_nameDef] grew up in an agricultural region, supporting the major metropolises food supply on [PAWN_possessive] Palaven. Living so far from other young people made social life difficult, but [PAWN_nameDef] made the best of it - though [PAWN_pronoun] ended up a bit shy.</TurianCountryKid.baseDescription>
+  <TurianCountryKid.title>Ребёнок с фермы</TurianCountryKid.title>
+  <TurianCountryKid.titleShort>Ребёнок с фермы</TurianCountryKid.titleShort>
+  <TurianCountryKid.baseDescription>[PAWN_nameDef] вырос в сельскохозяйственном регионе, поддерживая продовольствием крупные мегаполисы на [PAWN_possessive] Палавене. Жить далеко от других сверстников не влияло положительно на социальную жизнь, но [PAWN_nameDef] преуспел в этом - хотя [PAWN_pronoun] оказался немного застенчивым.</TurianCountryKid.baseDescription>
 
-  <TurianGeniusKid.title>Young genius</TurianGeniusKid.title>
-  <TurianGeniusKid.titleShort>Prodigy</TurianGeniusKid.titleShort>
-  <TurianGeniusKid.baseDescription>[PAWN_nameDef] loved tinkering with [PAWN_possessive] toys, taking them apart and reassembling them - programming simple little computer programs from [PAWN_possessive] elementary school textbooks - or simply reading any piece of information [PAWN_pronoun] can get [PAWN_possessive] hands on.</TurianGeniusKid.baseDescription>
+  <TurianGeniusKid.title>Молодой гений</TurianGeniusKid.title>
+  <TurianGeniusKid.titleShort>Одаренный</TurianGeniusKid.titleShort>
+  <TurianGeniusKid.baseDescription>[PAWN_nameDef] любил возиться с игрушками [PAWN_possessive]], разбирая и собирая их - программируя простые компьютерные программы из учебников [PAWN_possessive] начальной школы - или просто читая любую информацию [PAWN_pronoun], которую можно получить [PAWN_possessive].</TurianGeniusKid.baseDescription>
 
 
   <!-- Adult Stories - not porn -->
 
-  <TurianGunmaker.title>Gunsmith</TurianGunmaker.title>
-  <TurianGunmaker.titleShort>Gunsmith</TurianGunmaker.titleShort>
-  <TurianGunmaker.baseDescription>[PAWN_nameDef] was interested in guns and firearms of all kinds from a young age. [PAWN_possessive] interest developed into a passion, and [PAWN_pronoun] became one of the foremost independant weapons designers of the allied races.</TurianGunmaker.baseDescription>
+  <TurianGunmaker.title>Оружейный мастер</TurianGunmaker.title>
+  <TurianGunmaker.titleShort>Оружейный мастер</TurianGunmaker.titleShort>
+  <TurianGunmaker.baseDescription>[PAWN_nameDef] интересовался оружием и огнестрельным оружием всех видов с юных лет. Интерес [PAWN_possessive] перерос в страсть, и [PAWN_pronoun] стал одним из независимых разработчиков оружия союзных рас.</TurianGunmaker.baseDescription>
 
-  <TurianSexSlave.title>Consort</TurianSexSlave.title>
-  <TurianSexSlave.titleShort>Consort</TurianSexSlave.titleShort>
-  <TurianSexSlave.baseDescription>[PAWN_nameDef] was captured by slavers and sold to a lecherous tycoon. [PAWN_pronoun] was forced to tend the gardens, and do all sorts of lewd acts for [PAWN_possessive] 'owner', but grew accustomed to the otherwise lavish environment, and spoiled as far as labor is concerned.</TurianSexSlave.baseDescription>
+  <TurianSexSlave.title>Раб</TurianSexSlave.title>
+  <TurianSexSlave.titleShort>Раб</TurianSexSlave.titleShort>
+  <TurianSexSlave.baseDescription>[PAWN_nameDef] был захвачен работорговцами и продан распутному магнату. [PAWN_pronoun] был вынужден ухаживать за садами и совершать всевозможные непристойные действия для [PAWN_possessive] 'владельца'.</TurianSexSlave.baseDescription>
 
-  <TurianLasminer.title>Turian Lasminer</TurianLasminer.title>
-  <TurianLasminer.titleShort>Lasminer</TurianLasminer.titleShort>
-  <TurianLasminer.baseDescription>[PAWN_nameDef] operated a laser-mining rig at an advanced asteroidal mining station, and occasionally operated manual equipment when they'd pumped atmosphere into a particularly rich shaft. [PAWN_pronoun] developed a strong back and keen eye with [PAWN_possessive] laser-drill.</TurianLasminer.baseDescription>
+  <TurianLasminer.title>Турианский шахтер</TurianLasminer.title>
+  <TurianLasminer.titleShort>Шахтер</TurianLasminer.titleShort>
+  <TurianLasminer.baseDescription>[PAWN_nameDef] управлял лазерной установкой на станции астероидной добычи и иногда использовал ручное оборудование, когда они закачивали атмосферу в особенно богатую шахту. [PAWN_pronoun] развил сильную спину и острый глаз с помощью [PAWN_possessive] лазерной дрели.</TurianLasminer.baseDescription>
 
-  <TurianHunterBS.title>Turian Hunter</TurianHunterBS.title>
-  <TurianHunterBS.titleShort>Hunter</TurianHunterBS.titleShort>
-  <TurianHunterBS.baseDescription>[PAWN_nameDef] is a professional hunter. Sometimes called to put down manhunters, or guide rich dentists on Safari, [PAWN_possessive] skills as a tracker are only matched by [PAWN_possessive] skill at handling.</TurianHunterBS.baseDescription>
+  <TurianHunterBS.title>Турианский охотник</TurianHunterBS.title>
+  <TurianHunterBS.titleShort>Охотник</TurianHunterBS.titleShort>
+  <TurianHunterBS.baseDescription>[PAWN_nameDef] - профессиональный охотник. Иногда его нанимают для убийства других охотников или в качестве гида богачей в сафари.</TurianHunterBS.baseDescription>
 
-  <TurianFarmer.title>Turbofarmer</TurianFarmer.title>
-  <TurianFarmer.titleShort>Turbofarmer</TurianFarmer.titleShort>
-  <TurianFarmer.baseDescription>[PAWN_nameDef] managed a ranch that grew large quantities of feed-stock for Xenguana. [PAWN_pronoun] was on [PAWN_possessive] way to a big ag-conference on the nearby moon, when pirates attacked the shuttle! Luckily, the law intervened, but not before the shuttle had taken serious damage, forcing everyone to abandon ship and make for the escape pods...</TurianFarmer.baseDescription>
+  <TurianFarmer.title>Фермер</TurianFarmer.title>
+  <TurianFarmer.titleShort>Фермер</TurianFarmer.titleShort>
+  <TurianFarmer.baseDescription>[PAWN_nameDef] управлял ранчо, которое выращивало большое количество сырья для Ксенгуаны. [PAWN_pronoun] был на [PAWN_possessive] пути к большой аг-конференции на ближайшей луне, когда пираты напали на челнок! К счастью, закон вмешался, но не раньше, чем шаттл получил серьезный ущерб, заставив всех покинуть корабль и отправиться в спасательные капсулы...</TurianFarmer.baseDescription>
 
-  <TurianTrailblazer.title>Trailblazer</TurianTrailblazer.title>
-  <TurianTrailblazer.titleShort>Blazer</TurianTrailblazer.titleShort>
-  <TurianTrailblazer.baseDescription>[PAWN_nameDef] is at the forefront of the effort to expand the territories controlled by the Alliance - rushing headlong into the unknown to colonize uncharted worlds and eke out a living.</TurianTrailblazer.baseDescription>
+  <TurianTrailblazer.title>Первопроходец</TurianTrailblazer.title>
+  <TurianTrailblazer.titleShort>Первопроходец</TurianTrailblazer.titleShort>
+  <TurianTrailblazer.baseDescription>[PAWN_nameDef] находится на передовой по расширению территорий, контролируемых Альянсом, - несется с головой в неизвестность, чтобы колонизировать неизведанные миры и заработать на жизнь.</TurianTrailblazer.baseDescription>
 
-  <TurianResearch.title>Intel Research</TurianResearch.title>
-  <TurianResearch.titleShort>Research</TurianResearch.titleShort>
-  <TurianResearch.baseDescription>[PAWN_nameDef] was head of research in the headquarters for the Turian Intelligence Service, investigating and untangling the webs of lies surrounding enemy agents. [PAWN_pronoun] even helped to uncover an enemy mole, (not a gofer) who was compromising agents in the field.</TurianResearch.baseDescription>
+  <TurianResearch.title>Исследователь</TurianResearch.title>
+  <TurianResearch.titleShort>Исследователь</TurianResearch.titleShort>
+  <TurianResearch.baseDescription>[PAWN_nameDef] был руководителем исследований в штаб-квартире Турианской разведывательной службы, расследовавшей и распутывающей сети лжи, окружающие вражеских агентов. [PAWN_pronoun] даже помог раскрыть вражеского крота (не "шестерку"), который компрометировал агентов на поле.</TurianResearch.baseDescription>
 
-  <TurianDoctor.title>Frontier doctor</TurianDoctor.title>
-  <TurianDoctor.titleShort>Doc</TurianDoctor.titleShort>
-  <TurianDoctor.baseDescription>[PAWN_nameDef] has taken an oath to devote [PAWN_possessive] life to healing others. [PAWN_pronoun] has taken [PAWN_possessive] mission out to the furthest reaches and the dustiest outposts. You know... places like this...</TurianDoctor.baseDescription>
+  <TurianDoctor.title>Пограничный врач</TurianDoctor.title>
+  <TurianDoctor.titleShort>Доктор</TurianDoctor.titleShort>
+  <TurianDoctor.baseDescription>[PAWN_nameDef] дал клятву посвятить [PAWN_possessive] жизнь исцелению других. [PAWN_pronoun] отправил миссию [PAWN_possessive] в самые дальние уголки и самые грязные заставы. Вы знаете... такие места, как это...</TurianDoctor.baseDescription>
 
-  <TurianChef.title>Turian line-cook</TurianChef.title>
-  <TurianChef.titleShort>Line-cook</TurianChef.titleShort>
-  <TurianChef.baseDescription>[PAWN_nameDef] is a line-cook, a cook working under a master chef in a big kitchen. [PAWN_pronoun] has helped prepare meals for some of the highest functionaries in Turian and Xenn society.</TurianChef.baseDescription>
+  <TurianChef.title>Турианский повар</TurianChef.title>
+  <TurianChef.titleShort>Повар</TurianChef.titleShort>
+  <TurianChef.baseDescription>[PAWN_nameDef] - повар, работающий под руководством шеф-повара на большой кухне. [PAWN_pronoun] помог приготовить еду для некоторых высших чиновников в турианском и ксеннском обществе.</TurianChef.baseDescription>
 
-  <TurianArchivist.title>Turian archivist</TurianArchivist.title>
-  <TurianArchivist.titleShort>Alpha</TurianArchivist.titleShort>
-  <TurianArchivist.baseDescription>[PAWN_nameDef] bears the burden of leadership among [PAWN_possessive] community. Turian are a curious and somewhat furtive race, this leads them to collectively horde knowledge. So much so, that their Leaders are called "Archivists", and they serve this function as well as governmental administration. Among [PAWN_possessive] peers, [PAWN_nameDef] is that leader.</TurianArchivist.baseDescription>
+  <TurianArchivist.title>Турианский архивариус</TurianArchivist.title>
+  <TurianArchivist.titleShort>Альфа</TurianArchivist.titleShort>
+  <TurianArchivist.baseDescription>[PAWN_nameDef] несет бремя лидера среди сообщества [PAWN_possessive]. Турианцы - любопытная и несколько скрытая раса, что приводит их к общем знаниям. Настолько, что их лидеров называют "Архивариусами", и они выполняют эту функцию так же, как и правительственная администрация. Среди равных [PAWN_possessive], [PAWN_nameDef] лидер.</TurianArchivist.baseDescription>
 
-  <PrivateTurian.title>Courier agent</PrivateTurian.title>
-  <PrivateTurian.titleShort>Courier</PrivateTurian.titleShort>
-  <PrivateTurian.baseDescription>[PAWN_nameDef] is a low-ranking courier agent for the Turian intelligence. It is [PAWN_possessive] duty to deliver small items and packages, or information, wherever [PAWN_possessive] superiors order.</PrivateTurian.baseDescription>
+  <PrivateTurian.title>Агент-курьер</PrivateTurian.title>
+  <PrivateTurian.titleShort>Курьер</PrivateTurian.titleShort>
+  <PrivateTurian.baseDescription>[PAWN_nameDef] является агентом-курьером низкого ранга турианской разведки. [PAWN_possessive] обязан доставлять мелкие предметы и пакеты, или информацию в любую точку галактики.</PrivateTurian.baseDescription>
 
-  <MajorTurian.title>Turian scalphunter</MajorTurian.title>
-  <MajorTurian.titleShort>Scalphunter</MajorTurian.titleShort>
-  <MajorTurian.baseDescription>[PAWN_nameDef] is a 'scalphunter' for Turian intelligence. [PAWN_pronoun] does the 'dirty work' - spotting, seducing, and 'disposing of' enemy agents. Charming, but deadly.</MajorTurian.baseDescription>
+  <MajorTurian.title>Турианский скальпер</MajorTurian.title>
+  <MajorTurian.titleShort>Скальпер</MajorTurian.titleShort>
+  <MajorTurian.baseDescription>[PAWN_nameDef] 'скальпер' турианской разведки. [PAWN_pronoun] выполняет 'грязную работу' - обнаружение, соблазнение и 'уничтожение' вражеских агентов. Очаровательно, но смертельно.</MajorTurian.baseDescription>
 
-  <TurianSpacerAdult.title>Turian space-trader</TurianSpacerAdult.title>
-  <TurianSpacerAdult.titleShort>R-Spacer</TurianSpacerAdult.titleShort>
-  <TurianSpacerAdult.baseDescription>[PAWN_nameDef] was a free-trader, roving the Turian Empire and it's neighbors space searching for deals and opportunities for profit. Until now, HE was flying a ship, making deals with colonies like these... I wonder what happened?</TurianSpacerAdult.baseDescription>
+  <TurianSpacerAdult.title>Турианский космический торговец</TurianSpacerAdult.title>
+  <TurianSpacerAdult.titleShort>Торговец</TurianSpacerAdult.titleShort>
+  <TurianSpacerAdult.baseDescription>[PAWN_nameDef] был свободным торговцем, бродящим по Турианской империи и соседям, ищущим сделки и возможности для получения прибыли. До сих пор ОН летал на корабле, заключал сделки с такими колониями ... Интересно, что случилось?</TurianSpacerAdult.baseDescription>
 
-  <TurianRocket.title>Rocketeer</TurianRocket.title>
-  <TurianRocket.titleShort>Rocket</TurianRocket.titleShort>
-  <TurianRocket.baseDescription>[PAWN_nameDef] was one of an experimental corps of rocket-troops. The troops performed well, but problems with the rocket cooling systems, and more than a few scorched tails, led to the abandonment of the project, but [PAWN_pronoun] will never forget the feeling of flying with nothing but a self-stabilizing rocket strapped to [PAWN_possessive] back!</TurianRocket.baseDescription>
+  <TurianRocket.title>Ракетчик</TurianRocket.title>
+  <TurianRocket.titleShort>Ракета</TurianRocket.titleShort>
+  <TurianRocket.baseDescription>[PAWN_nameDef] был одним из экспериментальных солдат ракетных войск. Войска выступили хорошо, но проблемы с системами охлаждения ракет и более чем несколькими выжженными хвостами привели к отказу от проекта, но [PAWN_pronoun] никогда не забудет чувство полета только с самостабилизирующейся ракетой, привязанной к спине [PAWN_possessive]!</TurianRocket.baseDescription>
 
-  <TurianProgrammer.title>Turian programmer</TurianProgrammer.title>
-  <TurianProgrammer.titleShort>Programmer</TurianProgrammer.titleShort>
-  <TurianProgrammer.baseDescription>[PAWN_nameDef] has spent many sleepless nights hammering away at a console (not literally with a hammer - though sometimes [PAWN_pronoun] wanted to). This allowed [PAWN_pronoun] to fund [PAWN_possessive] second passion... Firearms. [PAWN_pronoun] would vent [PAWN_possessive] frustrations at the shooting range as often as [PAWN_pronoun] could.</TurianProgrammer.baseDescription>
+  <TurianProgrammer.title>Турианский программист</TurianProgrammer.title>
+  <TurianProgrammer.titleShort>Программист</TurianProgrammer.titleShort>
+  <TurianProgrammer.baseDescription>[PAWN_nameDef] провел много бессонных ночей, стуча по клавиатуре (не буквально молотком - хотя иногда [PAWN_pronoun] хотел). Это позволило [PAWN_pronoun] финансировать [PAWN_possessive] вторую страсть ... огнестрельное оружие. [PAWN_pronoun] будет вызывать разочарование [PAWN_possessive] на стрельбище так часто, как мог [PAWN_pronoun].</TurianProgrammer.baseDescription>
 
-  <Turianmechw.title>Mech pilot</Turianmechw.title>
-  <Turianmechw.titleShort>Mechwarrior</Turianmechw.titleShort>
-  <Turianmechw.baseDescription>[PAWN_nameDef] is a Battlemech pilot, a Mech Warrior. Operating these massive walking tanks, MechWarriors serve in the armies of the Great Houses or as part of a Mercenary unit, fight in the gladiatorial arenas of Solaris VII, or operate on the fringes of society as pirates and bandits. Among the Clans, a MechWarrior can either be trueborn or freeborn, with the former enjoying greater social standing.
-    The jumpship HE was on had a jump-drive failure, casting them off into the unknown. After waiting several weeks for rescue, with supplies running low, the crew decided to use the escape pods at the nearest habitable planet...
+  <Turianmechw.title>Пилот меха</Turianmechw.title>
+  <Turianmechw.titleShort>Мех-воин</Turianmechw.titleShort>
+  <Turianmechw.baseDescription>[PAWN_nameDef] пилот меха - боевого робота. Управляя этими массивными шагающими танками, мех-воины служат в армиях Великих Домов или в составе отряда Наемников, сражаются на гладиаторских аренах Соляриса VII или действуют на окраинах общества как пираты и бандиты. Среди Кланов мех-воин может быть как истинным, так и свободным, первый же - имеет более высокий социальный статус.
+    У прыжкового корабля, на котором он находился, произошел сбой в прыжковом приводе, который отбросил их в неизвестность. После нескольких недель ожидания спасения, когда запасы заканчивались, команда решила использовать спасательные капсулы на ближайшей обитаемой планете...
     </Turianmechw.baseDescription>
 
-  <TurianXRestar.title>Restaurateur</TurianXRestar.title>
-  <TurianXRestar.titleShort>Restaurateur</TurianXRestar.titleShort>
-  <TurianXRestar.baseDescription>[PAWN_nameDef] owned and operated a chain of successful high-class urbworld restaurants. Unfortunately, they didn't survive the franchise wars against Taco Gong, and [PAWN_pronoun] was forced to flee the planet.</TurianXRestar.baseDescription>
+  <TurianXRestar.title>Владелец ресторана</TurianXRestar.title>
+  <TurianXRestar.titleShort>Ресторатор</TurianXRestar.titleShort>
+  <TurianXRestar.baseDescription>[PAWN_nameDef] владел и управлял сетью успешных первоклассных планетарных ресторанов. К сожалению, они не пережили франшизные войны против Тако Гонга, и [PAWN_pronoun] был вынужден покинуть планету.</TurianXRestar.baseDescription>
 
 
 </LanguageData>
